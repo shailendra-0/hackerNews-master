@@ -1,0 +1,13 @@
+.comments {
+    padding: 2vh 2vw 2vh 2vw;
+    border: 1px solid grey;
+    border-top: 0;
+}
+
+.story-url {
+    text-decoration: underline;
+}
+
+.comments:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px;
+}

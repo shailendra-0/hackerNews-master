@@ -1,0 +1,25 @@
+a {
+    color: black;
+}
+
+.story {
+    padding: 2vh 2vw 2vh 2vw;
+    border: 1px solid grey;
+    border-top: 0;
+}
+
+.story:hover {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 5px;
+}
+
+.story-title * {
+    display: inline;
+}
+
+.story-title p {
+    padding-left: 1vh;
+}
+
+.opace {
+    opacity: 0.5;
+}
